@@ -110,6 +110,8 @@ The application demonstrates:
 ## Screenshots
 
 <img width="626" height="771" alt="image" src="https://github.com/user-attachments/assets/431f61ee-2df0-4993-85e5-219a67bbf22c" />
+<img width="740" height="802" alt="image" src="https://github.com/user-attachments/assets/222b0a76-6747-4804-93f0-9974e85c1ec5" />
+
 <img width="1543" height="919" alt="image" src="https://github.com/user-attachments/assets/b5ff8d3e-76f7-4cda-98ea-46305ba364f7" />
 
 
